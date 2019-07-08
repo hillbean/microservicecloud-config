@@ -6,8 +6,8 @@ spring:
 spring:
     profiles: dev
     application: 
-        name: microservicecloud-config-atguigu-dev
+        name: application-hello
 ---
 spring:
     profiles: test
-    application: microservicecloud-config-atguigu-test
+    application: application-hello
